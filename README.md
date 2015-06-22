@@ -38,7 +38,7 @@ The initial list was taken from the Lumberjack project. It represents a common a
 ||host|STRING|Hostname of the event source|
 ||ipv4|IPV4|IPv4 address of the event source|
 ||ipv6|IPV6|IPv6 address of the event source|
-||msg|STRING|The event message|
+||message|STRING|The event message|
 ||msgid|STRING|The event message identifier|
 ||pid|STRING|Process ID that generated the event|
 ||pname|STRING|Process name that generated the event|
